@@ -19,4 +19,4 @@ hello Solitude! hello git
 hello Solitude! hello git
 hello Solitude! hello git
 hello Solitude! hello git
-hello Solitude! hello git
+hello Solitude! hello git hot-fix test
